@@ -1,0 +1,63 @@
+# Ignore build outputs
+bin/
+obj/
+**/bin
+**/obj
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore build artifacts and tools
+.project/
+.assembly/
+.autopackages/
+.nuget/
+artifacts/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore any files related to the runtime environment
+appsettings*.json
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore the SDK folder in global.json if present
+.sdk/
+
+# Ignore any secrets files
+secrets.json
+
+# Ignore compiled DLL files
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Ignore publish outputs
+publish/
+
+# Ignore backup and snapshot files
+*.bak
+*.swp
+*.orig
+
+# Ignore generated files
+.g.dart
