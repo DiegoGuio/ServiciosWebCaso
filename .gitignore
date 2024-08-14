@@ -61,3 +61,15 @@ publish/
 
 # Ignore generated files
 .g.dart
+
+# Visual Studio
+.vs/
+*.csproj.user
+*.suo
+*.user
+*.cache
+*.pdb
+*.obj
+*.log
+*.vsidx
+.vscode/

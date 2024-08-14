@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sindy\\OneDrive\\Documentos\\Trabajos SENA\\GA7\\GA7-220501096-AA5-EV01\\ServiciosWebCaso\\ServiciosWebCaso\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{733C4029-729F-408D-A7AD-D9BC416421B2}|ServiciosWebCaso.csproj|c:\\users\\sindy\\onedrive\\documentos\\trabajos sena\\ga7\\ga7-220501096-aa5-ev01\\servicioswebcaso\\servicioswebcaso\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733C4029-729F-408D-A7AD-D9BC416421B2}|ServiciosWebCaso.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733C4029-729F-408D-A7AD-D9BC416421B2}|ServiciosWebCaso.csproj|c:\\users\\sindy\\onedrive\\documentos\\trabajos sena\\ga7\\ga7-220501096-aa5-ev01\\servicioswebcaso\\servicioswebcaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733C4029-729F-408D-A7AD-D9BC416421B2}|ServiciosWebCaso.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 25,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\sindy\\OneDrive\\Documentos\\Trabajos SENA\\GA7\\GA7-220501096-AA5-EV01\\ServiciosWebCaso\\ServiciosWebCaso\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\sindy\\OneDrive\\Documentos\\Trabajos SENA\\GA7\\GA7-220501096-AA5-EV01\\ServiciosWebCaso\\ServiciosWebCaso\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:21:45.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sindy\\OneDrive\\Documentos\\Trabajos SENA\\GA7\\GA7-220501096-AA5-EV01\\ServiciosWebCaso\\ServiciosWebCaso\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sindy\\OneDrive\\Documentos\\Trabajos SENA\\GA7\\GA7-220501096-AA5-EV01\\ServiciosWebCaso\\ServiciosWebCaso\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:00:51.64Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
