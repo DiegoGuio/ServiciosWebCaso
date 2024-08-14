@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiciosWebCaso", "ServiciosWebCaso.csproj", "{733C4029-729F-408D-A7AD-D9BC416421B2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLogic", "{D15B6F68-84E3-4B84-B3B1-6CF3FB0D5FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogiServiciosWebCaso", "..\BusinessLogiServiciosWebCaso\BusinessLogiServiciosWebCaso.csproj", "{A9F3400C-5A73-411A-845E-82D536BB8F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{733C4029-729F-408D-A7AD-D9BC416421B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{733C4029-729F-408D-A7AD-D9BC416421B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{733C4029-729F-408D-A7AD-D9BC416421B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F3400C-5A73-411A-845E-82D536BB8F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F3400C-5A73-411A-845E-82D536BB8F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F3400C-5A73-411A-845E-82D536BB8F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F3400C-5A73-411A-845E-82D536BB8F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A9F3400C-5A73-411A-845E-82D536BB8F01} = {D15B6F68-84E3-4B84-B3B1-6CF3FB0D5FD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {38C82F30-FBB0-499F-B9EB-EDC2ED127EE3}

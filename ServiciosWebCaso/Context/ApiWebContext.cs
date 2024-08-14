@@ -12,6 +12,5 @@ namespace ServiciosWebCaso.Context
 
         public DbSet<User> Users { get; set; }
 
-        public DbSet<Credential> Credentials { get; set; }
     }
 }

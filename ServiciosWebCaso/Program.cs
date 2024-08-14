@@ -1,3 +1,4 @@
+using BusinessLogiServiciosWebCaso.BL;
 using Microsoft.EntityFrameworkCore;
 using ServiciosWebCaso.Context;
 
@@ -15,6 +16,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+//BusinesLogic
+builder.Services.AddScoped<UsersBL>();
 
 var app = builder.Build();
 
